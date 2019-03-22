@@ -1,1 +1,1 @@
-A place for projects/demos made excluding school courseworks 
+Webpage demos made at Ucode Inc for educational purpose. 
